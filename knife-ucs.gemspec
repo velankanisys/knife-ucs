@@ -19,8 +19,8 @@ Gem::Specification.new do |s|
   s.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   s.require_paths = ["lib"]
 
-  s.add_dependency "nokogiri", "~> 1.5.2"
-  s.add_dependency "rest-client", "~> 1.6.7"
-  s.add_dependency "ucslib", "~> 0.1.7"
-  s.add_dependency "chef", "> 11.0.0"
+  s.add_dependency "nokogiri"
+  s.add_dependency "rest-client"
+  s.add_dependency "ucslib"
+  s.add_dependency "chef"
 end
