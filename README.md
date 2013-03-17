@@ -44,7 +44,7 @@ Author:: Murali Raju <murali.raju@appliv.com>
 Author:: Velankani Engineering Team <eng@velankani.net>
 
 Copyright:: Copyright (c) 2011 Murali Raju <murali.raju@appliv.com>
-Copyright:: Copyright (c) 2012 Velankani Information Systems, Inc.
+Copyright:: Copyright (c) 2012-2013 Velankani Information Systems, Inc.
 
 License:: Apache License, Version 2.0
 
